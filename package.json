@@ -1,5 +1,5 @@
 {
-  "name": "telegram-bot-example",
+  "name": "telegram-ddos-bot",
   "version": "1.0.0",
   "description": "Bot Telegram dengan Node.js",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "bot",
     "nodejs"
   ],
-  "author": "Your Name",
+  "author": "LanzXCode",
   "license": "MIT",
   "dependencies": {
     "node-telegram-bot-api": "^0.55.0"
