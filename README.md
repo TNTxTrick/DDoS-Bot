@@ -1,0 +1,4 @@
+HOW TO USE ON TERMUX OR LINUX
+1.npm install
+2.npm start
+3.COPY TELEGRAM TOKEN BOT AND PASTE IN index.js 
